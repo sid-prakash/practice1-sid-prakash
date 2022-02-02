@@ -1,3 +1,6 @@
 # practice1-sid-prakash
 
-tips to work with git and github.
+- Siddharthan Prakash
+- Software Engineering
+- Learning how to create UI, Classes such as COMS 228 and COMS 230, Looking for internships for the summer
+- My brain, Canvas, A palnner
